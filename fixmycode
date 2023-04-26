@@ -1,0 +1,4 @@
+#!/bin/bash
+
+filename=$1
+echo "Fix my $filename code: $(cat $filename)" | tr '\n' ' ' | gpt chat
