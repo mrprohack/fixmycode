@@ -1,4 +1,6 @@
-# fixmycode
+# Fixmycode
+
+## Install
 
 ## Usage
 
