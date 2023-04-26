@@ -1,7 +1,9 @@
 # Fixmycode
 
 ## Install
-
+```sh 
+sudo apt install nodejs
+```
 ## Usage
 
 
