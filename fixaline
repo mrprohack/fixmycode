@@ -1,0 +1,5 @@
+#!/bin/bash
+
+filename=$1
+linenumber=$2
+echo "Fix my $filename show only code code: $(cat $filename | head -n $linenumber | tail -n 1)" | tr '\n' ' ' | sudo gpt chat
